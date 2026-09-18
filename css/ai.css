@@ -81,3 +81,13 @@ ul li {
     height: 100%;
     color: #fff;
 }
+
+@media (orientation: portrait) {
+    nav {
+        width: 80%;
+    }
+
+    .input {
+        width: 80%;
+    }
+}
